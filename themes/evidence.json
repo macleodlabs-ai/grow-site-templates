@@ -9,6 +9,7 @@
     "ink": "#1A1712",
     "inkMuted": "#5E5647",
     "accent": "#136F52",
+    "accentInk": "#FFFFFF",
     "line": "#E2DACA"
   },
   "dark": {
@@ -16,7 +17,8 @@
     "surface": "#171B1F",
     "ink": "#ECE8E0",
     "inkMuted": "#B0AA9E",
-    "accent": "#229669",
+    "accent": "#1C8259",
+    "accentInk": "#FFFFFF",
     "line": "#2E353D"
   }
 }

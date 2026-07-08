@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "themes": ["evidence"]
+  "themes": [
+    "evidence",
+    "candy-brutalist",
+    "editorial-noir",
+    "warm-navy",
+    "grotesk-light"
+  ]
 }

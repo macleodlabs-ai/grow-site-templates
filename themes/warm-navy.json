@@ -1,0 +1,27 @@
+{
+  "name": "warm-navy",
+  "description": "Warm cream + deep navy calm — floating pill nav, left-aligned hero, geometric humanist type.",
+  "displayFont": "'Avenir Next', 'Segoe UI', system-ui, sans-serif",
+  "radius": "14px",
+  "style": {
+    "heroAlign": "left"
+  },
+  "light": {
+    "bg": "#F4F3EA",
+    "surface": "#FFFFFF",
+    "ink": "#1E2A4A",
+    "inkMuted": "#54607C",
+    "accent": "#3B53C4",
+    "accentInk": "#FFFFFF",
+    "line": "#E3E1D6"
+  },
+  "dark": {
+    "bg": "#1E2A4A",
+    "surface": "#26325A",
+    "ink": "#F4F3EA",
+    "inkMuted": "#A9B0C4",
+    "accent": "#A8B8FF",
+    "accentInk": "#1E2A4A",
+    "line": "#31406B"
+  }
+}

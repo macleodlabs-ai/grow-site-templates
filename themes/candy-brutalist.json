@@ -1,0 +1,34 @@
+{
+  "name": "candy-brutalist",
+  "description": "ploy.ai's house look — grey canvas, uppercase condensed display, candy-pastel section fills, pill everything.",
+  "displayFont": "'Arial Narrow Bold', 'Arial Narrow', Impact, system-ui, sans-serif",
+  "radius": "12px",
+  "style": {
+    "caps": true,
+    "heroAlign": "center",
+    "fills": [
+      "#FFB8FC",
+      "#FFFA64",
+      "#D1F864",
+      "#C3DBFF"
+    ]
+  },
+  "light": {
+    "bg": "#F4F4F4",
+    "surface": "#FFFFFF",
+    "ink": "#212121",
+    "inkMuted": "#5C5C5C",
+    "accent": "#212121",
+    "accentInk": "#FFFFFF",
+    "line": "#E4E4E4"
+  },
+  "dark": {
+    "bg": "#131313",
+    "surface": "#1E1E1E",
+    "ink": "#F4F4F4",
+    "inkMuted": "#9A9A9A",
+    "accent": "#D1F864",
+    "accentInk": "#131313",
+    "line": "#2E2E2E"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "grotesk-light",
+  "description": "Clean neutral SaaS — system grotesk, indigo accent, eyebrow chip. The safe default.",
+  "displayFont": "system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif",
+  "radius": "12px",
+  "style": {
+    "heroAlign": "left",
+    "eyebrowChip": true
+  },
+  "light": {
+    "bg": "#FCFCFC",
+    "surface": "#FFFFFF",
+    "ink": "#18181B",
+    "inkMuted": "#5B5B63",
+    "accent": "#4338CA",
+    "accentInk": "#FFFFFF",
+    "line": "#EAEAEC"
+  },
+  "dark": {
+    "bg": "#0B0B0C",
+    "surface": "#151517",
+    "ink": "#FAFAFA",
+    "inkMuted": "#9B9BA3",
+    "accent": "#A5B4FC",
+    "accentInk": "#0B0B0C",
+    "line": "#26262A"
+  }
+}
