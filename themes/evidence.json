@@ -1,0 +1,22 @@
+{
+  "name": "evidence",
+  "description": "Grow's own look — warm paper, pine accent, serif display. The default.",
+  "displayFont": "Georgia, 'Times New Roman', serif",
+  "radius": "14px",
+  "light": {
+    "bg": "#F6F2E9",
+    "surface": "#FFFFFF",
+    "ink": "#1A1712",
+    "inkMuted": "#5E5647",
+    "accent": "#136F52",
+    "line": "#E2DACA"
+  },
+  "dark": {
+    "bg": "#111417",
+    "surface": "#171B1F",
+    "ink": "#ECE8E0",
+    "inkMuted": "#B0AA9E",
+    "accent": "#229669",
+    "line": "#2E353D"
+  }
+}
