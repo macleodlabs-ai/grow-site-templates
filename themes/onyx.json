@@ -1,0 +1,27 @@
+{
+  "name": "onyx",
+  "description": "Pure black and white — monochrome, minimal, expensive-looking.",
+  "displayFont": "system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif",
+  "radius": "12px",
+  "light": {
+    "bg": "#FAFAFA",
+    "surface": "#FFFFFF",
+    "ink": "#101010",
+    "inkMuted": "#565656",
+    "accent": "#101010",
+    "accentInk": "#FFFFFF",
+    "line": "#E8E8E8"
+  },
+  "dark": {
+    "bg": "#0A0A0A",
+    "surface": "#151515",
+    "ink": "#F5F5F5",
+    "inkMuted": "#A3A3A3",
+    "accent": "#F5F5F5",
+    "accentInk": "#101010",
+    "line": "#262626"
+  },
+  "style": {
+    "heroAlign": "left"
+  }
+}

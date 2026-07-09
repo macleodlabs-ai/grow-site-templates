@@ -1,0 +1,28 @@
+{
+  "name": "royal",
+  "description": "Regal purple — serif headlines, lavender calm, deep violet accents.",
+  "displayFont": "Georgia, 'Times New Roman', serif",
+  "radius": "16px",
+  "light": {
+    "bg": "#F7F5FB",
+    "surface": "#FFFFFF",
+    "ink": "#241B3A",
+    "inkMuted": "#5A5171",
+    "accent": "#5B21B6",
+    "accentInk": "#FFFFFF",
+    "line": "#E5E0F0"
+  },
+  "dark": {
+    "bg": "#171126",
+    "surface": "#1F1834",
+    "ink": "#EDE9F8",
+    "inkMuted": "#ABA3C2",
+    "accent": "#A78BFA",
+    "accentInk": "#1A1030",
+    "line": "#2E2547"
+  },
+  "style": {
+    "heroAlign": "center",
+    "eyebrowChip": true
+  }
+}

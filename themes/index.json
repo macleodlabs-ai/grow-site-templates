@@ -1,6 +1,8 @@
 {
   "version": 1,
   "themes": [
+    "royal",
+    "onyx",
     "evidence",
     "candy-brutalist",
     "editorial-noir",
